@@ -10,13 +10,12 @@ How to turn any matrix into matrix that satisfies Magic Square properties
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Java compiler will be needed to execute the program
 
 ### Executing program
 
-* How to run the program
 * git clone https://github.com/drake25122000/littleLivesAssignment.git
+* Move directory to the project directory
 * Compile the code
 ```
 javac FormingMagicSquare.java
@@ -41,5 +40,7 @@ Christian Drake Martin
 
 ## Version History
 
-* 0.1
+* 1
     * Initial Release
+* 2
+    * Revise README.md
