@@ -65,15 +65,15 @@ public class FormingMagicSquare
 	    Scanner scan = new Scanner(System.in);
 	    System.out.println("Enter array elements : ");    
         
-        int inputArr[][] = new int[3][3];
+            int inputArr[][] = new int[3][3];
         
           
-        for (int i = 0 ; i < 3 ; i++) {            
-            for (int j = 0 ; j < 3 ; j++) {
-                inputArr[i][j] = scan.nextInt();
+            for (int i = 0 ; i < 3 ; i++) {            
+                for (int j = 0 ; j < 3 ; j++) {
+                    inputArr[i][j] = scan.nextInt();
+                }
             }
-        }
-        System.out.println("Minimum cost to form Magic Square: " + (formMagicSquareCost(flattenArray(inputArr))));
+            System.out.println("Minimum cost to form Magic Square: " + (formMagicSquareCost(flattenArray(inputArr))));
         
 	    
 	}
