@@ -36,7 +36,7 @@ java FormingMagicSquare
 Contributors names and contact info
 
 Christian Drake Martin
-[@drake251200](http://https//www.linkedin.com/in/christian-drake-martin/)
+[@drake251200](https://www.linkedin.com/in/christian-drake-martin/)
 
 ## Version History
 
