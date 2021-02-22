@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main
+public class FormingMagicSquare
 {
     
     /**
@@ -73,7 +73,7 @@ public class Main
                 inputArr[i][j] = scan.nextInt();
             }
         }
-        System.out.print("Minimum cost to form Magic Square: " + (formMagicSquareCost(flattenArray(inputArr))));
+        System.out.println("Minimum cost to form Magic Square: " + (formMagicSquareCost(flattenArray(inputArr))));
         
 	    
 	}

@@ -16,9 +16,20 @@ How to turn any matrix into matrix that satisfies Magic Square properties
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
+* git clone https://github.com/drake25122000/littleLivesAssignment.git
+* Compile the code
 ```
-code blocks for commands
+javac FormingMagicSquare.java
+```
+* Run the compiled code
+```
+java FormingMagicSquare
+```
+* Put sample test case, ex:
+```
+4 8 2
+4 5 7
+6 1 6
 ```
 
 ## Authors
